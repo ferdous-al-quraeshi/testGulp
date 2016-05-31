@@ -1,0 +1,3 @@
+# fifth.coffee
+myFifthFunction = ->
+	'fifth'
